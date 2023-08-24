@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:11-48
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+	android:versionCode
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml:1:1-2:12
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		ADDED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/Chibao2109/bhx-app-mobile/node_modules/react-native-matomo/android/src/main/AndroidManifest.xml
