@@ -114,4 +114,4 @@ Matomo.setAppOptOut(true);
 
 ## License
 
-react-native-matomo is released under the MIT license, see [LICENSE](https://github.com/BonifyByForteil/react-native-matomo/blob/master/LICENSE).
+react-native-matomo is released under the MIT license, see [LICENSE](https://github.com/ChiBao284/react-native-matomo/blob/master/LICENSE).
